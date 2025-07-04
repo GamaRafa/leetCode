@@ -1,0 +1,14 @@
+{
+  "name": "ts",
+  "version": "1.0.0",
+  "description": "TypeScript version of leetCode challenges",
+  "main": "haystackNeedle.js",
+  "scripts": {
+    "runTS": "ts-node"    
+  },
+  "author": "Rafael Gama",
+  "license": "ISC",
+  "devDependencies": {
+    "ts-node": "^10.9.2"
+  }
+}

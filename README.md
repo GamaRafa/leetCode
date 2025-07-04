@@ -11,9 +11,29 @@ Whether you're just getting started or reviewing key problem patterns, feel free
 - 🔁 Common patterns like: Stack, Two Pointers, Hash Map, Brute Force, etc.
 - 🧪 Test cases for most solutions
 
+## :blue_square: TS
+
+To run TypeScript files in VSCode, you'll need to install the dependencies of the TS package of this repo, and run a custom command:
+
+To install dependencies: (must have `node` and `npm` installed. TypeScript is installed as a global dependency)
+```
+cd TS
+npm install
+npm install -g typescript
+```
+
+To run a .ts file (you need to be on TS folder, if you're not, run `cd TS`):
+```
+npm run runTS <filename>
+```
+Simply change `<filename>` for the name of the file you want to run. If the file is called "invertString.ts", for example:
+```
+npm run runTS invertString.ts
+```
+
 ## 🧱 Folder Structure
 
-Folders are organized by language. I'm starting with Java. 
+Folders are organized by language. The main folders of this repo are "Java" and "TS". The "TS" folder contains an `npm` package. 
 
 ## 💡 Why I Made This
 
