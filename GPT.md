@@ -2,25 +2,25 @@
 **Text Cleaner** ✅
 Remove punctuation, extra spaces, and convert a string to lowercase.
 
-**Word Frequency Counter**
+**Word Frequency Counter** ✅
 Count how often each word appears in a paragraph using a `Map<String, Integer>`.
 
-**Anagram Groups**
+**Anagram Groups** ✅
 Group words that are anagrams of each other (e.g., `["eat", "tea", "tan", "ate", "nat", "bat"] → [["eat","tea","ate"], ["tan","nat"], ["bat"]]`).
 
-**Find First Non-Repeated Character**
+**Find First Non-Repeated Character** ✅
 Return the first character in a string that does not repeat.
 
-**Palindrome Normalizer**
+**Palindrome Normalizer** ✅
 Check if a string is a palindrome ignoring spaces, punctuation, and case.
 
-**String Compressor**
+**String Compressor** ✅
 Input: `"aaabbbcc"` → Output: `"a3b3c2"`
 
-**CamelCase to Snake_Case Converter**
+**CamelCase to Snake_Case Converter** ✅
 Convert `"camelCaseString"` to `"camel_case_string"`.
 
-**Letter Histogram**
+**Letter Histogram** ✅
 Print a histogram (like a bar chart in text) showing how often each letter appears in a string.
 
 ## 🔢 Array Exercises

@@ -21,5 +21,6 @@ public class WordFrequencyCounter {
 
   public static void main(String[] args) {
     countWordFrequency("banana aipim banana macaco banana maça");
+    countWordFrequency("banana macaco banana aipim banana macaco");
   }
 }

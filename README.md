@@ -2,6 +2,8 @@
 
 Welcome! 👋 This repository contains my personal solutions to selected [LeetCode](https://leetcode.com/) problems, with **clear comments** and **simple explanations** to help others (and myself) understand the logic behind each approach.
 
+Note: I also added some algorithms suggested by ChatGPT along with the ones from leetCode. They're found at the "GPT.md" file.
+
 Whether you're just getting started or reviewing key problem patterns, feel free to explore and learn along!
 
 ## 📌 What's Included
