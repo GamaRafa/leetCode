@@ -24,13 +24,13 @@ Convert `"camelCaseString"` to `"camel_case_string"`.
 Print a histogram (like a bar chart in text) showing how often each letter appears in a string.
 
 ## 🔢 Array Exercises
-**Remove Duplicates from Array (without Set)**
+**Remove Duplicates from Array (without Set)** ✅
 Return a new array with duplicates removed, but maintain order.
 
-**Find All Pairs That Sum to Target**
+**Find All Pairs That Sum to Target** ✅
 Given an `int[]`, return all pairs of numbers that sum up to a target.
 
-**Majority Element**
+**Majority Element** ✅
 Return the element that appears more than `n/2` times, or say "none".
 
 **Sliding Window Maximum**
@@ -47,7 +47,7 @@ Example: `[1,2,3,4,5,6]` → `[[1,2], [3,4], [5,6]]` for size 2.
 Combine two sorted arrays into a single sorted array (without duplicates).
 
 ## 🔑 HashMap Exercises
-**Find Duplicates in Array**
+**Find Duplicates in Array** ✅
 Use a `HashMap` to find which values appear more than once.
 
 **Two Sum (Alternative Versions)**
