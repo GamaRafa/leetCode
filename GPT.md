@@ -39,7 +39,7 @@ From a large array, find the maximum value in every window of size `k`.
 **Rotate Array**
 Shift the array to the right by k positions. Example: `[1,2,3,4,5]` → `[4,5,1,2,3]`.
 
-**Chunked Array Split**
+**Chunked Array Split** ✅
 Split an array into chunks of size n.
 Example: `[1,2,3,4,5,6]` → `[[1,2], [3,4], [5,6]]` for size 2.
 
@@ -53,7 +53,7 @@ Use a `HashMap` to find which values appear more than once.
 **Two Sum (Alternative Versions)**
 Return value pairs, not indexes.
 
-**First Repeated Word in a String**
+**First Repeated Word in a String** ✅
 Return the first word that appears more than once in a sentence.
 
 **Group Words by First Letter**
